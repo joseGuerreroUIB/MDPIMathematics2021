@@ -1,4 +1,5 @@
-%Generates the set of random environments to test.
+
+%Generate a nENv different environments where the tasks are placed randomly
 function generateEnvironmentsSw(NEnv)
 
 NtE=300;
